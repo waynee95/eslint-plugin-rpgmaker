@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-rpgmaker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESlint Plugin for RPG Maker MV Globals.",
   "main": "index.js",
   "scripts": {
