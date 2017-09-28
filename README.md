@@ -3,13 +3,13 @@ eslint-plugin-rpgmaker
 
 > [`ESLint`](http://eslint.org) ESlint Plugin for RPG Maker MV Globals.
 
-# Installation
+## Installation
 
 ```sh
 $ npm install eslint-plugin-rpgmaker --save-dev
 ```
 
-# Configuration
+## Configuration
 
 Add `plugins` section and specify eslint-plugin-rpgmaker as a plugin.
 
