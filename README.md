@@ -1,7 +1,6 @@
-eslint-plugin-rpgmaker
-======================
+# eslint-plugin-rpgmaker
 
-> [`ESLint`](http://eslint.org) ESlint Plugin for RPG Maker MV and MZ Globals.
+> ESlint Plugin for RPG Maker MV and MZ Globals.
 
 ## Installation
 
