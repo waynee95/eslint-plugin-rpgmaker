@@ -1,17 +1,15 @@
 {
   "name": "eslint-plugin-rpgmaker",
-  "version": "1.0.2",
-  "description": "ESlint Plugin for RPG Maker MV Globals.",
+  "version": "2.0.0",
+  "description": "ESlint Plugin for RPG Maker MV and MZ Globals.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/waynee95/eslint-plugin-rpgmaker.git"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "rpgmaker"
   ],
   "author": "waynee95",
   "license": "MIT",
